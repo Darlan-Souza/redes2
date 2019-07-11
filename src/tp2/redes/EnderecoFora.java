@@ -35,7 +35,7 @@ public class EnderecoFora {
         return vezesOff;
     }
     
-    public void bigtimeoffline(long newTimeoff) {
+    private void bigtimeoffline(long newTimeoff) {
         if (newTimeoff > this.bigTimeOff) {
             this.bigTimeOff = newTimeoff;
         }
