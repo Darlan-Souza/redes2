@@ -1,0 +1,7 @@
+Pacotes enviados:
+Pacotes entregues:
+Pacotes perdidos:
+Vezes offline:
+Total tempo offline:
+Maior tempo offline:
+
